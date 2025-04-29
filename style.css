@@ -33,7 +33,7 @@ body {
     position: relative;
     background: linear-gradient(120deg, #e81244 0%, #ffd166 50%, #06d6a0 80%, #118ab2 100%);
     background-color: rgb(235, 235, 235);
-    background-image: url('./img/happybg.jpg');
+    background-image: url('happybg.jpg');
     background-size: cover;
     background-blend-mode: lighten;
     width: 250px;
@@ -124,7 +124,7 @@ body {
   
   .cardInside {
     position: absolute;
-    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('./img/happybg.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('happybg.jpg');
     background-size: cover;
     width: 250px;
     height:350px;
